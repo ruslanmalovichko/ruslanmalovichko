@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslanmalovichko
 - 👀 I’m interested in back end
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and TypeScript
 - 📫 How to reach me https://www.instagram.com/ruslan.malovichko/
 
 <!---
